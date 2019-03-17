@@ -36,7 +36,7 @@ CATBOXCOINT@protonmail.com
 VINCIT OMNIA VERITAS
 
 Support with blockchain address here.
-Bitcoin   : bc1q0jrjwpjml9r6fll9uhpaj8f4arzj26awja66p7
+Bitcoin   : 3KeE8Ubhej5Q9tHUwKXVayVjtmAkxgRLAt
 Tron      : TTzQLEn3P4Y2fMpYWFzEazKTJD3QtgxJ3j
 Neo       : AddvGvtWC4uANTFp8KAxfUDSUrfasEtDD4
 Stellar   : GBF3OGQQG6GKE5FKSOGBKMGGVDPKJTT7E7LM3UF77OJFKPANT5N64PCM
